@@ -38,6 +38,6 @@ public class Principal {
             System.out.println("Ano de ingresso: " + aluno01.getAnoIngresso());
         }
 
-        entrada.close();
+        entrada.close();    
     }
 }
